@@ -51,3 +51,11 @@ vitest.config.*.timestamp*
 # Compodoc generated documentation
 docs/compodoc
 .compodoc
+
+# Lighthouse CI reports
+.lighthouseci
+
+# Lighthouse CI reports
+.lighthouseci
+lighthouseci-*.json
+lhci-*.html
