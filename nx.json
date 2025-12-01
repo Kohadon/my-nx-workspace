@@ -39,5 +39,5 @@
     "@nx/angular:library": { "style": "scss", "unitTestRunner": "vitest" },
     "@nx/angular:component": { "changeDetection": "OnPush", "style": "scss" }
   },
-  "nxCloudId": "692d63f6814039d384120507"
+  "nxCloudId": "692d6ed1062cb17e70cf7856"
 }
